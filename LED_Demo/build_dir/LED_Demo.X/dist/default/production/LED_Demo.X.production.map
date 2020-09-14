@@ -1,0 +1,1276 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(data_init.o)
+                              build/default/production/_ext/886568118/startup_pic32cx0525sg12144.o (__pic32c_data_initialization)
+c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+                              c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard/crt0.o (exit)
+c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+                              c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+                              c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard/crt0.o (__libc_init_array)
+c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+                              c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard/crt0.o (memset)
+c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+                              c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+                              c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o) (atexit)
+c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+                              c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+                              c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(_exit.o)
+                              c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o) (_exit)
+
+Allocating common symbols
+Common symbol       size              file
+
+tick                0x1               build/default/production/_ext/1987995597/main.o
+
+Microchip PIC32 Memory-Usage Report
+
+ROM Program-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.vectors                   0xe0000          0x598        1432   
+.text                      0xe0598           0x24          36  App's exec code 
+.ARM.exidx                 0xe05bc            0x8           8   
+.text                      0xe05c4         0x1140        4416  App's exec code 
+.dinit                     0xe1704          0x4d0        1232   
+.text                      0xe1bd4         0x1098        4248  App's exec code 
+.text.__call_exitprocs     0xe2c6c           0xd4         212   
+.text.__register_exitpr    0xe2d40           0xa4         164   
+.text.memset               0xe2de4           0x9c         156   
+.text.Reset_Handler        0xe2e80          0x108         264   
+.text                      0xe2f88           0x80         128  App's exec code 
+.text.__pic32c_data_ini    0xe3008           0x80         128   
+.text                      0xe3088          0x144         324  App's exec code 
+.text.__libc_init_array    0xe31cc           0x50          80   
+.rodata                    0xe321c           0x4c          76  Read-only const 
+.text.__libc_fini_array    0xe3268           0x34          52   
+.rodata                    0xe329c           0x30          48  Read-only const 
+.text.exit                 0xe32cc           0x20          32   
+.text.register_fini        0xe32ec           0x14          20   
+.text.atexit               0xe3300            0xc          12   
+.rodata._global_impure_    0xe330c            0x4           4   
+.text._exit                0xe3310            0x4           4   
+.text.Dummy_Handler        0xe3314            0x4           4   
+      Total ROM used  :      0x3318       13080  5.7% of 0x37fff
+        --------------------------------------------------------------------------
+         Total Program Memory used  :      0x3318       13080  5.7% of 0x37fff
+        --------------------------------------------------------------------------
+
+
+RAM Data-Memory Usage
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+.bss                      0x118000            0x4           4  Uninitialized data 
+.data                     0x118004            0x4           4  Initialized data 
+.data.impure_data         0x118008          0x428        1064   
+.bss                      0x118430           0x1c          28  Uninitialized data 
+.data                     0x11844c            0x4           4  Initialized data 
+.data._impure_ptr         0x118450            0x4           4   
+.eh_frame                 0x118454            0x4           4   
+.jcr                      0x118458            0x4           4   
+.bss                      0x11845c            0x4           4  Uninitialized data 
+         Total RAM used  :       0x460        1120  3.4% of 0x7fff
+        --------------------------------------------------------------------------
+            Total Data Memory used  :       0x460        1120  3.4% of 0x7fff
+        --------------------------------------------------------------------------
+
+
+Dynamic Data-Memory Reservation
+section                    address  length [bytes]      (dec)  Description
+-------                 ----------  -------------------------  -----------
+heap                      0x118468           0x10          16  Reserved for heap 
+stack                     0x118490         0x7b68       31592  Reserved for stack 
+
+        --------------------------------------------------------------------------
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x000e0000         0x00037fff         xr
+ram              0x00118000         0x00007fff         xrw
+*default*        0x00000000         0xffffffff
+dtcm             0x00000000         0xffffffff
+itcm             0x00000000         0xffffffff
+tcm              0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crti.o
+LOAD c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtbegin.o
+LOAD c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard/crt0.o
+LOAD build/default/production/_ext/1987995597/main.o
+LOAD build/default/production/_ext/794244865/trace.o
+LOAD build/default/production/_ext/1498500003/gpio_api.o
+LOAD build/default/production/_ext/1498500003/gpio_app.o
+LOAD build/default/production/_ext/1498500003/gpio_perphl.o
+LOAD build/default/production/_ext/1996630799/interrupt_api.o
+LOAD build/default/production/_ext/1996630799/interrupt_ecia_perphl.o
+LOAD build/default/production/_ext/1996630799/interrupt_nvic_perphl.o
+LOAD build/default/production/_ext/1996630799/pcr_api.o
+LOAD build/default/production/_ext/1996630799/pcr_perphl.o
+LOAD build/default/production/_ext/886568118/startup_pic32cx0525sg12144.o
+LOAD build/default/production/_ext/1596626179/system_Everglades_internal.o
+                0x00000001                __MPLAB_BUILD = 0x1
+
+.vectors        0x000e0000      0x598
+                0x000e0000                . = ALIGN (0x4)
+                0x000e0000                _sfixed = .
+ *(.vectors .vectors.* .vectors_default .vectors_default.*)
+ .vectors.default
+                0x000e0000      0x2ec build/default/production/_ext/886568118/startup_pic32cx0525sg12144.o
+                0x000e0000                exception_table
+ .vectors.default
+                0x000e02ec      0x2ac C:\Users\I20904\AppData\Local\Temp\ccokvwgy.o
+
+.text           0x000e0598       0x24
+                0x000e0598                . = ALIGN (0x4)
+ *(.glue_7t)
+ .glue_7t       0x000e0598        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x000e0598        0x0 linker stubs
+ *(.gnu.linkonce.r.*)
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+ .ARM.extab     0x000e0598        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard/crt0.o
+                0x000e0598                . = ALIGN (0x4)
+ *(.init)
+ .init          0x000e0598        0x4 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crti.o
+                0x000e0598                _init
+ .init          0x000e059c        0x8 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtn.o
+                0x000e05a4                . = ALIGN (0x4)
+                0x000e05a4                __preinit_array_start = .
+ *(.preinit_array)
+                0x000e05a4                __preinit_array_end = .
+                0x000e05a4                . = ALIGN (0x4)
+                0x000e05a4                __init_array_start = .
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x000e05a4        0x4 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ *(.init_array)
+ .init_array    0x000e05a8        0x4 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x000e05ac                __init_array_end = .
+                0x000e05ac                . = ALIGN (0x4)
+ *crtbegin.o(.ctors)
+ *(EXCLUDE_FILE(*crtend.o) .ctors)
+ *(SORT(.ctors.*))
+ *crtend.o(.ctors)
+                0x000e05ac                . = ALIGN (0x4)
+ *(.fini)
+ .fini          0x000e05ac        0x4 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crti.o
+                0x000e05ac                _fini
+ .fini          0x000e05b0        0x8 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtn.o
+                0x000e05b8                . = ALIGN (0x4)
+                0x000e05b8                __fini_array_start = .
+ *(.fini_array)
+ .fini_array    0x000e05b8        0x4 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtbegin.o
+ *(SORT(.fini_array.*))
+                0x000e05bc                __fini_array_end = .
+ *crtbegin.o(.dtors)
+ *(EXCLUDE_FILE(*crtend.o) .dtors)
+ *(SORT(.dtors.*))
+ *crtend.o(.dtors)
+                0x000e05bc                . = ALIGN (0x4)
+                0x000e05bc                _efixed = .
+                [!provide]                PROVIDE (__exidx_start, .)
+
+.ARM.exidx      0x000e05bc        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x000e05bc        0x8 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard/crt0.o
+                [!provide]                PROVIDE (__exidx_end, .)
+                0x000e05c4                . = ALIGN (0x4)
+                0x000e05c4                _etext = .
+
+.bss            0x00118000        0x4
+                0x00118000                . = ALIGN (0x4)
+                0x00118000                __bss_start__ = .
+                0x00118000                _sbss = .
+                0x00118000                _szero = .
+ *(COMMON)
+ COMMON         0x00118000        0x1 build/default/production/_ext/1987995597/main.o
+                0x00118000                tick
+                0x00118004                . = ALIGN (0x4)
+ *fill*         0x00118001        0x3 
+                0x00118004                __bss_end__ = .
+                0x00118004                _ebss = .
+                0x00118004                _ezero = .
+                0x00118004                . = ALIGN (0x4)
+                0x00118004                _end = .
+                0x0011fffe                _ram_end_ = ((ORIGIN (ram) + LENGTH (ram)) - 0x1)
+LOAD C:\Users\I20904\AppData\Local\Temp\ccokvwgy.o
+START GROUP
+LOAD c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a
+LOAD c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard\libgcc.a
+LOAD c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a
+LOAD c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libm.a
+END GROUP
+LOAD c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtend.o
+LOAD c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtn.o
+OUTPUT(dist/default/production/LED_Demo.X.production.elf elf32-littlearm)
+LOAD stack
+LOAD data_init
+
+.ARM.attributes
+                0x00000000       0x30
+ .ARM.attributes
+                0x00000000       0x22 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crti.o
+ .ARM.attributes
+                0x00000022       0x34 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtbegin.o
+ .ARM.attributes
+                0x00000056       0x20 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard/crt0.o
+ .ARM.attributes
+                0x00000076       0x39 build/default/production/_ext/1987995597/main.o
+ .ARM.attributes
+                0x000000af       0x39 build/default/production/_ext/794244865/trace.o
+ .ARM.attributes
+                0x000000e8       0x39 build/default/production/_ext/1498500003/gpio_api.o
+ .ARM.attributes
+                0x00000121       0x39 build/default/production/_ext/1498500003/gpio_app.o
+ .ARM.attributes
+                0x0000015a       0x39 build/default/production/_ext/1498500003/gpio_perphl.o
+ .ARM.attributes
+                0x00000193       0x39 build/default/production/_ext/1996630799/interrupt_api.o
+ .ARM.attributes
+                0x000001cc       0x39 build/default/production/_ext/1996630799/interrupt_ecia_perphl.o
+ .ARM.attributes
+                0x00000205       0x39 build/default/production/_ext/1996630799/interrupt_nvic_perphl.o
+ .ARM.attributes
+                0x0000023e       0x39 build/default/production/_ext/1996630799/pcr_api.o
+ .ARM.attributes
+                0x00000277       0x39 build/default/production/_ext/1996630799/pcr_perphl.o
+ .ARM.attributes
+                0x000002b0       0x39 build/default/production/_ext/886568118/startup_pic32cx0525sg12144.o
+ .ARM.attributes
+                0x000002e9       0x39 build/default/production/_ext/1596626179/system_Everglades_internal.o
+ .ARM.attributes
+                0x00000322       0x39 C:\Users\I20904\AppData\Local\Temp\ccokvwgy.o
+ .ARM.attributes
+                0x0000035b       0x34 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(data_init.o)
+ .ARM.attributes
+                0x0000038f       0x34 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x000003c3       0x34 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000003f7       0x34 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000042b       0x34 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x0000045f       0x34 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000493       0x34 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x000004c7       0x34 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x000004fb       0x34 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000052f       0x34 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(_exit.o)
+ .ARM.attributes
+                0x00000563       0x34 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtend.o
+ .ARM.attributes
+                0x00000597       0x22 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtn.o
+
+.comment        0x00000000       0x40
+ .comment       0x00000000       0x40 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtbegin.o
+                                 0x41 (size before relaxing)
+ .comment       0x00000040       0x41 build/default/production/_ext/1987995597/main.o
+ .comment       0x00000040       0x41 build/default/production/_ext/794244865/trace.o
+ .comment       0x00000040       0x41 build/default/production/_ext/1498500003/gpio_api.o
+ .comment       0x00000040       0x41 build/default/production/_ext/1498500003/gpio_app.o
+ .comment       0x00000040       0x41 build/default/production/_ext/1498500003/gpio_perphl.o
+ .comment       0x00000040       0x41 build/default/production/_ext/1996630799/interrupt_api.o
+ .comment       0x00000040       0x41 build/default/production/_ext/1996630799/interrupt_ecia_perphl.o
+ .comment       0x00000040       0x41 build/default/production/_ext/1996630799/interrupt_nvic_perphl.o
+ .comment       0x00000040       0x41 build/default/production/_ext/1996630799/pcr_api.o
+ .comment       0x00000040       0x41 build/default/production/_ext/1996630799/pcr_perphl.o
+ .comment       0x00000040       0x41 build/default/production/_ext/886568118/startup_pic32cx0525sg12144.o
+ .comment       0x00000040       0x41 build/default/production/_ext/1596626179/system_Everglades_internal.o
+ .comment       0x00000040       0x41 C:\Users\I20904\AppData\Local\Temp\ccokvwgy.o
+ .comment       0x00000040       0x41 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(data_init.o)
+ .comment       0x00000040       0x41 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .comment       0x00000040       0x41 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .comment       0x00000040       0x41 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .comment       0x00000040       0x41 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .comment       0x00000040       0x41 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .comment       0x00000040       0x41 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .comment       0x00000040       0x41 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .comment       0x00000040       0x41 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .comment       0x00000040       0x41 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(_exit.o)
+ .comment       0x00000040       0x41 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtend.o
+
+.debug_line     0x00000000     0x2e0f
+ .debug_line    0x00000000       0xc5 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard/crt0.o
+ .debug_line    0x000000c5      0x257 build/default/production/_ext/1987995597/main.o
+ .debug_line    0x0000031c      0x322 build/default/production/_ext/794244865/trace.o
+ .debug_line    0x0000063e      0x21c build/default/production/_ext/1498500003/gpio_api.o
+ .debug_line    0x0000085a      0x1a9 build/default/production/_ext/1498500003/gpio_app.o
+ .debug_line    0x00000a03      0x242 build/default/production/_ext/1498500003/gpio_perphl.o
+ .debug_line    0x00000c45      0x359 build/default/production/_ext/1996630799/interrupt_api.o
+ .debug_line    0x00000f9e      0x286 build/default/production/_ext/1996630799/interrupt_ecia_perphl.o
+ .debug_line    0x00001224      0x22e build/default/production/_ext/1996630799/interrupt_nvic_perphl.o
+ .debug_line    0x00001452      0x1f0 build/default/production/_ext/1996630799/pcr_api.o
+ .debug_line    0x00001642      0x283 build/default/production/_ext/1996630799/pcr_perphl.o
+ .debug_line    0x000018c5      0x1c2 build/default/production/_ext/886568118/startup_pic32cx0525sg12144.o
+ .debug_line    0x00001a87      0x1f4 build/default/production/_ext/1596626179/system_Everglades_internal.o
+ .debug_line    0x00001c7b       0xe0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(data_init.o)
+ .debug_line    0x00001d5b      0x23c c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .debug_line    0x00001f97      0x196 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .debug_line    0x0000212d      0x120 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .debug_line    0x0000224d      0x300 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .debug_line    0x0000254d      0x280 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .debug_line    0x000027cd      0x22b c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .debug_line    0x000029f8      0x117 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .debug_line    0x00002b0f      0x25e c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .debug_line    0x00002d6d       0xa2 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(_exit.o)
+
+.debug_info     0x00000000    0x1826d
+ .debug_info    0x00000000      0x112 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard/crt0.o
+ .debug_info    0x00000112     0x16c6 build/default/production/_ext/1987995597/main.o
+ .debug_info    0x000017d8      0xa25 build/default/production/_ext/794244865/trace.o
+ .debug_info    0x000021fd     0x124b build/default/production/_ext/1498500003/gpio_api.o
+ .debug_info    0x00003448      0xd13 build/default/production/_ext/1498500003/gpio_app.o
+ .debug_info    0x0000415b     0x1580 build/default/production/_ext/1498500003/gpio_perphl.o
+ .debug_info    0x000056db     0x1cd7 build/default/production/_ext/1996630799/interrupt_api.o
+ .debug_info    0x000073b2     0x3592 build/default/production/_ext/1996630799/interrupt_ecia_perphl.o
+ .debug_info    0x0000a944     0x10df build/default/production/_ext/1996630799/interrupt_nvic_perphl.o
+ .debug_info    0x0000ba23      0x9bd build/default/production/_ext/1996630799/pcr_api.o
+ .debug_info    0x0000c3e0     0x1245 build/default/production/_ext/1996630799/pcr_perphl.o
+ .debug_info    0x0000d625     0x1b6d build/default/production/_ext/886568118/startup_pic32cx0525sg12144.o
+ .debug_info    0x0000f192     0x2423 build/default/production/_ext/1596626179/system_Everglades_internal.o
+ .debug_info    0x000115b5      0x2ae c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(data_init.o)
+ .debug_info    0x00011863      0xeba c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .debug_info    0x0001271d      0xdee c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .debug_info    0x0001350b      0x41d c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .debug_info    0x00013928     0x15fc c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .debug_info    0x00014f24      0xf6a c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .debug_info    0x00015e8e      0xe7f c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .debug_info    0x00016d0d      0x3e2 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .debug_info    0x000170ef      0xeeb c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .debug_info    0x00017fda      0x293 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(_exit.o)
+
+.debug_abbrev   0x00000000     0x2001
+ .debug_abbrev  0x00000000       0x14 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard/crt0.o
+ .debug_abbrev  0x00000014      0x218 build/default/production/_ext/1987995597/main.o
+ .debug_abbrev  0x0000022c      0x1a6 build/default/production/_ext/794244865/trace.o
+ .debug_abbrev  0x000003d2      0x130 build/default/production/_ext/1498500003/gpio_api.o
+ .debug_abbrev  0x00000502       0x9d build/default/production/_ext/1498500003/gpio_app.o
+ .debug_abbrev  0x0000059f      0x1b9 build/default/production/_ext/1498500003/gpio_perphl.o
+ .debug_abbrev  0x00000758      0x2cf build/default/production/_ext/1996630799/interrupt_api.o
+ .debug_abbrev  0x00000a27      0x270 build/default/production/_ext/1996630799/interrupt_ecia_perphl.o
+ .debug_abbrev  0x00000c97      0x185 build/default/production/_ext/1996630799/interrupt_nvic_perphl.o
+ .debug_abbrev  0x00000e1c      0x12b build/default/production/_ext/1996630799/pcr_api.o
+ .debug_abbrev  0x00000f47      0x172 build/default/production/_ext/1996630799/pcr_perphl.o
+ .debug_abbrev  0x000010b9      0x126 build/default/production/_ext/886568118/startup_pic32cx0525sg12144.o
+ .debug_abbrev  0x000011df      0x155 build/default/production/_ext/1596626179/system_Everglades_internal.o
+ .debug_abbrev  0x00001334       0x2a c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(data_init.o)
+ .debug_abbrev  0x0000135e      0x1e9 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .debug_abbrev  0x00001547      0x176 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .debug_abbrev  0x000016bd       0xa3 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .debug_abbrev  0x00001760      0x1b7 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .debug_abbrev  0x00001917      0x242 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x00001b59      0x1e6 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .debug_abbrev  0x00001d3f       0xa6 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .debug_abbrev  0x00001de5      0x1f2 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x00001fd7       0x2a c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(_exit.o)
+
+.debug_aranges  0x00000000      0x2e8
+ .debug_aranges
+                0x00000000       0x20 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard/crt0.o
+ .debug_aranges
+                0x00000020       0x20 build/default/production/_ext/1987995597/main.o
+ .debug_aranges
+                0x00000040       0x20 build/default/production/_ext/794244865/trace.o
+ .debug_aranges
+                0x00000060       0x20 build/default/production/_ext/1498500003/gpio_api.o
+ .debug_aranges
+                0x00000080       0x20 build/default/production/_ext/1498500003/gpio_app.o
+ .debug_aranges
+                0x000000a0       0x20 build/default/production/_ext/1498500003/gpio_perphl.o
+ .debug_aranges
+                0x000000c0       0x20 build/default/production/_ext/1996630799/interrupt_api.o
+ .debug_aranges
+                0x000000e0       0x20 build/default/production/_ext/1996630799/interrupt_ecia_perphl.o
+ .debug_aranges
+                0x00000100       0x20 build/default/production/_ext/1996630799/interrupt_nvic_perphl.o
+ .debug_aranges
+                0x00000120       0x20 build/default/production/_ext/1996630799/pcr_api.o
+ .debug_aranges
+                0x00000140       0x20 build/default/production/_ext/1996630799/pcr_perphl.o
+ .debug_aranges
+                0x00000160       0x28 build/default/production/_ext/886568118/startup_pic32cx0525sg12144.o
+ .debug_aranges
+                0x00000188       0x20 build/default/production/_ext/1596626179/system_Everglades_internal.o
+ .debug_aranges
+                0x000001a8       0x20 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(data_init.o)
+ .debug_aranges
+                0x000001c8       0x20 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .debug_aranges
+                0x000001e8       0x18 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x00000200       0x20 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .debug_aranges
+                0x00000220       0x20 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .debug_aranges
+                0x00000240       0x28 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x00000268       0x20 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .debug_aranges
+                0x00000288       0x20 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .debug_aranges
+                0x000002a8       0x20 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x000002c8       0x20 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(_exit.o)
+
+.debug_loc      0x00000000     0x37e1
+ .debug_loc     0x00000000      0x128 build/default/production/_ext/1987995597/main.o
+ .debug_loc     0x00000128      0x428 build/default/production/_ext/794244865/trace.o
+ .debug_loc     0x00000550      0x2d0 build/default/production/_ext/1498500003/gpio_api.o
+ .debug_loc     0x00000820       0x70 build/default/production/_ext/1498500003/gpio_app.o
+ .debug_loc     0x00000890      0x6cc build/default/production/_ext/1498500003/gpio_perphl.o
+ .debug_loc     0x00000f5c      0x710 build/default/production/_ext/1996630799/interrupt_api.o
+ .debug_loc     0x0000166c      0x68c build/default/production/_ext/1996630799/interrupt_ecia_perphl.o
+ .debug_loc     0x00001cf8      0x2c8 build/default/production/_ext/1996630799/interrupt_nvic_perphl.o
+ .debug_loc     0x00001fc0      0x40c build/default/production/_ext/1996630799/pcr_api.o
+ .debug_loc     0x000023cc      0xc2c build/default/production/_ext/1996630799/pcr_perphl.o
+ .debug_loc     0x00002ff8       0xa0 build/default/production/_ext/1596626179/system_Everglades_internal.o
+ .debug_loc     0x00003098       0x3e c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .debug_loc     0x000030d6       0xce c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .debug_loc     0x000031a4      0x1f5 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .debug_loc     0x00003399      0x1dd c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .debug_loc     0x00003576       0x2c c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .debug_loc     0x000035a2       0x88 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .debug_loc     0x0000362a      0x1b7 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+
+.debug_str      0x00000000      0x342
+ .debug_str     0x00000000       0x63 build/default/production/_ext/1987995597/main.o
+ .debug_str     0x00000063       0x2d build/default/production/_ext/794244865/trace.o
+ .debug_str     0x00000090        0xa build/default/production/_ext/1498500003/gpio_api.o
+ .debug_str     0x0000009a        0x0 build/default/production/_ext/1498500003/gpio_app.o
+ .debug_str     0x0000009a        0x9 build/default/production/_ext/1498500003/gpio_perphl.o
+ .debug_str     0x000000a3       0x4e build/default/production/_ext/1996630799/interrupt_api.o
+ .debug_str     0x000000f1       0x65 build/default/production/_ext/1996630799/interrupt_ecia_perphl.o
+ .debug_str     0x00000156        0xa build/default/production/_ext/1996630799/interrupt_nvic_perphl.o
+ .debug_str     0x00000160       0x3a build/default/production/_ext/1996630799/pcr_api.o
+ .debug_str     0x0000019a       0x24 build/default/production/_ext/1996630799/pcr_perphl.o
+ .debug_str     0x000001be        0x0 build/default/production/_ext/886568118/startup_pic32cx0525sg12144.o
+ .debug_str     0x000001be        0x0 build/default/production/_ext/1596626179/system_Everglades_internal.o
+ .debug_str     0x000001be        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(data_init.o)
+ .debug_str     0x000001be       0x1f c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .debug_str     0x000001dd        0xe c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+ .debug_str     0x000001eb        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .debug_str     0x000001eb      0x119 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .debug_str     0x00000304        0xe c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .debug_str     0x00000312       0x22 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .debug_str     0x00000334        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .debug_str     0x00000334        0xe c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .debug_str     0x00000342        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(_exit.o)
+
+.debug_frame    0x00000000     0x1880
+ .debug_frame   0x00000000       0x9c build/default/production/_ext/1987995597/main.o
+ .debug_frame   0x0000009c      0x1f4 build/default/production/_ext/794244865/trace.o
+ .debug_frame   0x00000290      0x158 build/default/production/_ext/1498500003/gpio_api.o
+ .debug_frame   0x000003e8       0x50 build/default/production/_ext/1498500003/gpio_app.o
+ .debug_frame   0x00000438      0x318 build/default/production/_ext/1498500003/gpio_perphl.o
+ .debug_frame   0x00000750      0x33c build/default/production/_ext/1996630799/interrupt_api.o
+ .debug_frame   0x00000a8c      0x2f0 build/default/production/_ext/1996630799/interrupt_ecia_perphl.o
+ .debug_frame   0x00000d7c      0x148 build/default/production/_ext/1996630799/interrupt_nvic_perphl.o
+ .debug_frame   0x00000ec4      0x22c build/default/production/_ext/1996630799/pcr_api.o
+ .debug_frame   0x000010f0      0x55c build/default/production/_ext/1996630799/pcr_perphl.o
+ .debug_frame   0x0000164c       0x30 build/default/production/_ext/886568118/startup_pic32cx0525sg12144.o
+ .debug_frame   0x0000167c       0x58 build/default/production/_ext/1596626179/system_Everglades_internal.o
+ .debug_frame   0x000016d4       0x2c c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(data_init.o)
+ .debug_frame   0x00001700       0x28 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .debug_frame   0x00001728       0x2c c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .debug_frame   0x00001754       0x34 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .debug_frame   0x00001788       0x50 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x000017d8       0x20 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .debug_frame   0x000017f8       0x34 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .debug_frame   0x0000182c       0x34 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00001860       0x20 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(_exit.o)
+
+.debug_ranges   0x00000000       0xd0
+ .debug_ranges  0x00000000       0x18 build/default/production/_ext/886568118/startup_pic32cx0525sg12144.o
+ .debug_ranges  0x00000018       0x10 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(data_init.o)
+ .debug_ranges  0x00000028       0x10 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+ .debug_ranges  0x00000038       0x10 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+ .debug_ranges  0x00000048       0x10 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+ .debug_ranges  0x00000058       0x38 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+ .debug_ranges  0x00000090       0x10 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+ .debug_ranges  0x000000a0       0x10 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+ .debug_ranges  0x000000b0       0x10 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+ .debug_ranges  0x000000c0       0x10 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(_exit.o)
+
+.stack          0x00118490      0x100
+ .stack         0x00118490      0x100 stack
+
+.data.impure_data%1
+                0x00118008      0x428
+ .data.impure_data
+                0x00118008      0x428 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+
+.bss%2          0x00118430       0x1c
+ .bss           0x00118430       0x1c c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.data%3         0x00118004        0x4
+ .data          0x00118004        0x4 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtbegin.o
+                0x00118004                __dso_handle
+
+.data%4         0x0011844c        0x4
+ .data          0x0011844c        0x4 build/default/production/_ext/1596626179/system_Everglades_internal.o
+                0x0011844c                SystemCoreClock
+
+.data._impure_ptr%5
+                0x00118450        0x4
+ .data._impure_ptr
+                0x00118450        0x4 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+                0x00118450                _impure_ptr
+
+.eh_frame%6     0x00118454        0x4
+ .eh_frame      0x00118454        0x4 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtend.o
+
+.jcr%7          0x00118458        0x4
+ .jcr           0x00118458        0x4 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtend.o
+
+.bss%8          0x0011845c        0x4
+ .bss           0x0011845c        0x2 build/default/production/_ext/1987995597/main.o
+                0x0011845c                run_initiator
+                0x0011845d                interrupt_flag_status
+ .bss           0x0011845e        0x1 build/default/production/_ext/1498500003/gpio_app.o
+ .bss           0x0011845f        0x1 C:\Users\I20904\AppData\Local\Temp\ccokvwgy.o
+
+.bss%z1         0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtn.o
+
+.data%z2        0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtn.o
+
+.bss%z3         0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtend.o
+
+.data%z4        0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtend.o
+
+.bss%z5         0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(_exit.o)
+
+.data%z6        0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(_exit.o)
+
+.bss%z7         0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+
+.data%z8        0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+
+.bss%z9         0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+
+.data%z10       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+
+.bss%z11        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+
+.data%z12       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+
+.bss%z13        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+
+.data%z14       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+
+.bss%z15        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+
+.data%z16       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+
+.bss%z17        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+
+.data%z18       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+
+.bss%z19        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+
+.data%z20       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+
+.bss%z21        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+
+.data%z22       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+
+.bss%z23        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(data_init.o)
+
+.data%z24       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(data_init.o)
+
+.data%z25       0x00000000        0x0
+ .data          0x00000000        0x0 C:\Users\I20904\AppData\Local\Temp\ccokvwgy.o
+
+.bss%z26        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/_ext/1596626179/system_Everglades_internal.o
+
+.bss%z27        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/_ext/886568118/startup_pic32cx0525sg12144.o
+
+.data%z28       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/_ext/886568118/startup_pic32cx0525sg12144.o
+
+.bss%z29        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/_ext/1996630799/pcr_perphl.o
+
+.data%z30       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/_ext/1996630799/pcr_perphl.o
+
+.bss%z31        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/_ext/1996630799/pcr_api.o
+
+.data%z32       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/_ext/1996630799/pcr_api.o
+
+.bss%z33        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/_ext/1996630799/interrupt_nvic_perphl.o
+
+.data%z34       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/_ext/1996630799/interrupt_nvic_perphl.o
+
+.bss%z35        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/_ext/1996630799/interrupt_ecia_perphl.o
+
+.data%z36       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/_ext/1996630799/interrupt_ecia_perphl.o
+
+.bss%z37        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/_ext/1996630799/interrupt_api.o
+
+.data%z38       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/_ext/1996630799/interrupt_api.o
+
+.bss%z39        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/_ext/1498500003/gpio_perphl.o
+
+.data%z40       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/_ext/1498500003/gpio_perphl.o
+
+.data%z41       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/_ext/1498500003/gpio_app.o
+
+.bss%z42        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/_ext/1498500003/gpio_api.o
+
+.data%z43       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/_ext/1498500003/gpio_api.o
+
+.bss%z44        0x00000000        0x0
+ .bss           0x00000000        0x0 build/default/production/_ext/794244865/trace.o
+
+.data%z45       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/_ext/794244865/trace.o
+
+.data%z46       0x00000000        0x0
+ .data          0x00000000        0x0 build/default/production/_ext/1987995597/main.o
+
+.bss%z47        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard/crt0.o
+
+.data%z48       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard/crt0.o
+
+.jcr%z49        0x00000000        0x0
+ .jcr           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.eh_frame%z50   0x00000000        0x0
+ .eh_frame      0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtbegin.o
+
+.bss%z51        0x00000000        0x0
+ .bss           0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crti.o
+
+.data%z52       0x00000000        0x0
+ .data          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crti.o
+
+.text%11        0x000e05c4     0x1140
+ .text          0x000e05c4      0x618 build/default/production/_ext/1996630799/pcr_perphl.o
+                0x000e05c4                p_pcr_reg_write
+                0x000e05f4                p_pcr_reg_read
+                0x000e0624                p_pcr_reg_set
+                0x000e065c                p_pcr_reg_clr
+                0x000e0694                p_pcr_reg_get
+                0x000e06cc                p_pcr_reg_update
+                0x000e0700                p_pcr_system_sleep_ctrl_write
+                0x000e073c                p_pcr_system_sleep_ctrl_read
+                0x000e0760                p_pcr_processor_clk_ctrl_write
+                0x000e079c                p_pcr_processor_clk_ctrl_read
+                0x000e07c0                p_pcr_slow_clk_ctrl_write
+                0x000e07e8                p_pcr_oscillator_lock_sts_get
+                0x000e0818                p_pcr_oscillator_id_reg_read
+                0x000e0840                p_pcr_pwr_reset_vcc_pwrdg_sts_get
+                0x000e0870                p_pcr_pwr_reset_host_reset_sts_get
+                0x000e08a0                p_pcr_pwr_reset_vbat_reset_sts_get
+                0x000e08d0                p_pcr_pwr_reset_vbat_reset_sts_clr
+                0x000e08f8                p_pcr_pwr_reset_vtr_reset_sts_get
+                0x000e0928                p_pcr_pwr_reset_vtr_reset_sts_clr
+                0x000e0950                p_pcr_pwr_reset_jtag_reset_sts_get
+                0x000e0980                p_pcr_pwr_reset_jtag_reset_sts_clr
+                0x000e09a8                p_pcr_pwr_reset_32K_active_sts_get
+                0x000e09d8                p_pcr_pwr_reset_pciclk_active_sts_get
+                0x000e0a08                p_pcr_pwr_reset_espiclk_active_sts_get
+                0x000e0a38                p_pcr_pwr_reset_sts_get
+                0x000e0a60                p_pcr_pwr_reset_ctrl_read
+                0x000e0a88                p_pcr_pwr_reset_ctrl_pwr_inv_set_clr
+                0x000e0ac8                p_pcr_pwr_reset_ctrl_host_rst_set_clr
+                0x000e0b08                p_pcr_system_reset_set
+                0x000e0b30                p_pcr_pke_clock_write
+                0x000e0b54                p_pcr_pke_clock_read
+                0x000e0b74                p_pcr_osc_cal_write
+                0x000e0b98                p_pcr_osc_cal_read
+                0x000e0bb8                p_pcr_periph_reset_lock
+ .text          0x000e0bdc      0x604 build/default/production/_ext/1996630799/interrupt_api.o
+                0x000e0dbc                interrupt_init
+                0x000e0e10                interrupt_mode_set
+                0x000e0e3a                interrupt_reset
+                0x000e0e4e                interrupt_device_enable
+                0x000e0ec8                interrupt_device_disable
+                0x000e0f8c                interrupt_device_ecia_source_clear
+                0x000e0fc6                interrupt_device_ecia_source_get
+                0x000e1000                interrupt_device_ecia_result_get
+                0x000e103a                interrupt_device_nvic_enable
+                0x000e108e                interrupt_device_nvic_priority_set
+                0x000e10ce                interrupt_device_nvic_priority_get
+                0x000e110a                interrupt_device_nvic_pending_get
+                0x000e1148                interrupt_device_nvic_pending_set
+                0x000e1180                interrupt_device_nvic_pending_clear
+ .text          0x000e11e0      0x524 build/default/production/_ext/1498500003/gpio_perphl.o
+                0x000e121a                p_gpio_ctrl_addr_get
+                0x000e1274                p_gpio_ctrl2_addr_get
+                0x000e12d0                p_gpio_is_valid
+                0x000e131c                p_gpio_ctrl_get
+                0x000e133c                p_gpio_ctrl_set
+                0x000e1360                p_gpio_ctrl2_get
+                0x000e1382                p_gpio_ctrl2_set
+                0x000e13b0                p_gpio_pad_get
+                0x000e13da                p_gpio_alt_out
+                0x000e140c                p_gpio_input_get
+                0x000e1478                p_gpio_output_set
+                0x000e14f8                p_gpio_mux_set
+                0x000e1538                p_gpio_polarity_set
+                0x000e157a                p_gpio_output_write_enable
+                0x000e15bc                p_gpio_dir_set
+                0x000e15fe                p_gpio_obuff_set
+                0x000e163e                p_gpio_idet_set
+                0x000e1680                p_gpio_pwrgate_set
+                0x000e16c2                p_gpio_pud_set
+
+.dinit%14       0x000e1704      0x4d0
+ .dinit         0x000e1704      0x4d0 data_init
+
+.text%15        0x000e1bd4     0x1098
+ .text          0x000e1bd4      0x494 build/default/production/_ext/1996630799/interrupt_ecia_perphl.o
+                0x000e1bd4                p_interrupt_ecia_block_enable_set
+                0x000e1c14                p_interrupt_ecia_block_enable_bitmask_set
+                0x000e1c40                p_interrupt_ecia_block_enable_get
+                0x000e1c8c                p_interrupt_ecia_block_enable_all_set
+                0x000e1cb0                p_interrupt_ecia_block_enable_clr
+                0x000e1cf0                p_interrupt_ecia_block_enable_bitmask_clr
+                0x000e1d1c                p_interrupt_ecia_block_enable_all_clr
+                0x000e1d40                p_interrupt_ecia_block_irq_status_get
+                0x000e1d7c                p_interrupt_ecia_block_irq_all_status_get
+                0x000e1da0                p_interrupt_ecia_girq_source_clr
+                0x000e1df0                p_interrupt_ecia_girq_source_get
+                0x000e1e4c                p_interrupt_ecia_girq_enable_set
+                0x000e1ea0                p_interrupt_ecia_girq_enable_clr
+                0x000e1ef4                p_interrupt_ecia_girq_enable_get
+                0x000e1f4c                p_interrupt_ecia_girq_result_get
+                0x000e1fa8                p_interrupt_ecia_girqs_source_reset
+                0x000e1fe8                p_interrupt_ecia_girqs_enable_reset
+                0x000e2028                p_interrupt_control_set
+                0x000e2048                p_interrupt_control_get
+ .text          0x000e2068      0x420 build/default/production/_ext/1498500003/gpio_api.o
+                0x000e2068                gpio_init
+                0x000e20ce                gpio_property_set
+                0x000e21b8                gpio_property_get
+                0x000e22e0                gpio_output_set
+                0x000e2338                gpio_input_get
+                0x000e2366                gpio_slewRate_get
+                0x000e239a                gpio_slewRate_set
+                0x000e23f4                gpio_drvStr_get
+                0x000e242c                gpio_drvStr_set
+ .text          0x000e2488      0x2e8 build/default/production/_ext/794244865/trace.o
+                0x000e2488                debug_init
+                0x000e24d0                trace_bit_bang_raw_8
+                0x000e24f0                trace_tx_word
+                0x000e251a                trace_tx_dword
+                0x000e2558                trace_debugger_0
+                0x000e257c                trace_debugger_1
+                0x000e25ae                trace_debugger_2
+                0x000e25ea                trace_debugger_3
+                0x000e263a                trace_debugger_4
+                0x000e2692                trace_debugger_11
+                0x000e26be                trace_debugger_12
+                0x000e26f2                trace_debugger_13
+                0x000e272e                trace_debugger_14
+ .text          0x000e2770      0x20c build/default/production/_ext/1996630799/interrupt_nvic_perphl.o
+                0x000e2844                p_interrupt_nvic_enable
+                0x000e287c                p_interrupt_nvic_extEnables_clr
+                0x000e28c0                p_interrupt_nvic_enpend_clr
+                0x000e2910                p_interrupt_nvic_priorities_default_set
+                0x000e2948                p_interrupt_nvic_priorities_set
+ .text          0x000e297c      0x1f8 build/default/production/_ext/1996630799/pcr_api.o
+                0x000e297c                pcr_sleep_enable
+                0x000e29ae                pcr_clock_reqd_status_get
+                0x000e29ea                pcr_reset_enable
+                0x000e2a1c                pcr_all_blocks_sleep
+                0x000e2a56                pcr_all_blocks_wake
+                0x000e2a86                pcr_system_sleep
+                0x000e2aa0                pcr_power_reset_status_read
+                0x000e2aae                pcr_power_reset_ctrl_read
+                0x000e2abc                pcr_pwr_reset_ctrl_pwr_inv_set_clr
+                0x000e2ad6                pcr_pwr_reset_ctrl_host_rst_set_clr
+                0x000e2af0                pcr_system_reset_set
+                0x000e2afc                pcr_pke_clock_write
+                0x000e2b16                pcr_pke_clock_read
+                0x000e2b24                pcr_osc_cal_write
+                0x000e2b3e                pcr_osc_cal_read
+                0x000e2b4c                pcr_periph_reset_lock
+                0x000e2b60                pcr_periph_reset_unlock
+ .text          0x000e2b74       0xf8 build/default/production/_ext/1987995597/main.o
+                0x000e2b74                main
+                0x000e2b9a                timer_delay
+                0x000e2be8                timer_delay_ms
+                0x000e2c16                timer_enable
+
+.text.__call_exitprocs%21
+                0x000e2c6c       0xd4
+ .text.__call_exitprocs
+                0x000e2c6c       0xd4 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+                0x000e2c6c                __call_exitprocs
+
+.text.__register_exitproc%22
+                0x000e2d40       0xa4
+ .text.__register_exitproc
+                0x000e2d40       0xa4 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+                0x000e2d40                __register_exitproc
+
+.text.memset%23
+                0x000e2de4       0x9c
+ .text.memset   0x000e2de4       0x9c c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+                0x000e2de4                memset
+
+.text.Reset_Handler%24
+                0x000e2e80      0x108
+ .text.Reset_Handler
+                0x000e2e80       0x88 C:\Users\I20904\AppData\Local\Temp\ccokvwgy.o
+ .text.Reset_Handler
+                0x000e2f08       0x80 build/default/production/_ext/886568118/startup_pic32cx0525sg12144.o
+                0x000e2f08                Reset_Handler
+
+.text%26        0x000e2f88       0x80
+ .text          0x000e2f88       0x80 build/default/production/_ext/1596626179/system_Everglades_internal.o
+                0x000e2f88                SystemCoreClockUpdate
+                0x000e2fc8                SystemInit
+
+.text.__pic32c_data_initialization%27
+                0x000e3008       0x80
+ .text.__pic32c_data_initialization
+                0x000e3008       0x80 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(data_init.o)
+                0x000e3008                __pic32c_data_initialization
+
+.text%28        0x000e3088      0x144
+ .text          0x000e3088       0x74 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard/crt0.o
+                0x000e3088                _start
+                0x000e3088                _mainCRTStartup
+ .text          0x000e30fc       0x6c c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtbegin.o
+ .text          0x000e3168       0x64 build/default/production/_ext/1498500003/gpio_app.o
+                0x000e3168                gpio_init_task
+                0x000e3192                gpio_toggle
+
+.text.__libc_init_array%31
+                0x000e31cc       0x50
+ .text.__libc_init_array
+                0x000e31cc       0x50 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+                0x000e31cc                __libc_init_array
+
+.rodata%32      0x000e321c       0x4c
+ .rodata        0x000e321c       0x4c build/default/production/_ext/1987995597/main.o
+                0x000e321c                build_info
+
+.text.__libc_fini_array%33
+                0x000e3268       0x34
+ .text.__libc_fini_array
+                0x000e3268       0x34 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+                0x000e3268                __libc_fini_array
+
+.rodata%34      0x000e329c       0x30
+ .rodata        0x000e329c       0x30 build/default/production/_ext/1498500003/gpio_perphl.o
+
+.text.exit%35   0x000e32cc       0x20
+ .text.exit     0x000e32cc       0x20 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+                0x000e32cc                exit
+
+.text.register_fini%36
+                0x000e32ec       0x14
+ .text.register_fini
+                0x000e32ec       0x14 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+
+.text.atexit%37
+                0x000e3300        0xc
+ .text.atexit   0x000e3300        0xc c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+                0x000e3300                atexit
+
+.rodata._global_impure_ptr%38
+                0x000e330c        0x4
+ .rodata._global_impure_ptr
+                0x000e330c        0x4 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+                0x000e330c                _global_impure_ptr
+
+.text._exit%39  0x000e3310        0x4
+ .text._exit    0x000e3310        0x4 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(_exit.o)
+                0x000e3310                _exit
+
+.text.Dummy_Handler%40
+                0x000e3314        0x4
+ .text.Dummy_Handler
+                0x000e3314        0x2 build/default/production/_ext/886568118/startup_pic32cx0525sg12144.o
+                0x000e3314                PS2_0B_WK_Handler
+                0x000e3314                Reserved36_Handler
+                0x000e3314                Reserved133_Handler
+                0x000e3314                SMB3_Handler
+                0x000e3314                VWIRE_ENABLE_Handler
+                0x000e3314                SVCall_Handler
+                0x000e3314                EMI0_Handler
+                0x000e3314                Reserved65_Handler
+                0x000e3314                Reserved157_Handler
+                0x000e3314                Reserved18_Handler
+                0x000e3314                ESPI_MSVW00_06_Handler
+                0x000e3314                Reserved69_Handler
+                0x000e3314                CAPTURE_1_Handler
+                0x000e3314                I2C0_Handler
+                0x000e3314                Reserved38_Handler
+                0x000e3314                TIMER32_1_Handler
+                0x000e3314                ACPIPM1_CTL_Handler
+                0x000e3314                Reserved92_Handler
+                0x000e3314                UART2_Handler
+                0x000e3314                DMA_CHAN00_Handler
+                0x000e3314                PECI_Handler
+                0x000e3314                HardFault_Handler
+                0x000e3314                Reserved12_Handler
+                0x000e3314                DMA_CHAN06_Handler
+                0x000e3314                GPIO_040_076_Handler
+                0x000e3314                SysTick_Handler
+                0x000e3314                DMA_CHAN09_Handler
+                0x000e3314                OBF3_Handler
+                0x000e3314                HTM1_Handler
+                0x000e3314                I2C1_Handler
+                0x000e3314                PendSV_Handler
+                0x000e3314                SMB1_Handler
+                0x000e3314                LED1_Handler
+                0x000e3314                INT_Handler
+                0x000e3314                Reserved138_Handler
+                0x000e3314                TACH1_Handler
+                0x000e3314                Reserved82_Handler
+                0x000e3314                COMPARE_1_Handler
+                0x000e3314                Reserved9_Handler
+                0x000e3314                HTM0_Handler
+                0x000e3314                NonMaskableInt_Handler
+                0x000e3314                RPT_Handler
+                0x000e3314                ALARM_INT_Handler
+                0x000e3314                OBF0_Handler
+                0x000e3314                Reserved74_Handler
+                0x000e3314                Reserved7_Handler
+                0x000e3314                Reserved134_Handler
+                0x000e3314                Reserved143_Handler
+                0x000e3314                SMB4_Handler
+                0x000e3314                SUB_SECOND_Handler
+                0x000e3314                Reserved95_Handler
+                0x000e3314                DMA_CHAN08_Handler
+                0x000e3314                Reserved19_Handler
+                0x000e3314                UsageFault_Handler
+                0x000e3314                GPIO_100_137_Handler
+                0x000e3314                DMA_CHAN02_Handler
+                0x000e3314                TIMER_Handler
+                0x000e3314                MBX_Handler
+                0x000e3314                HDMI_CEC_Handler
+                0x000e3314                SMB2_Handler
+                0x000e3314                OVRD_IN_Handler
+                0x000e3314                Reserved37_Handler
+                0x000e3314                Reserved99_Handler
+                0x000e3314                CAPTURE_TIMER_Handler
+                0x000e3314                GPIO_140_176_Handler
+                0x000e3314                Reserved61_Handler
+                0x000e3314                Reserved155_Handler
+                0x000e3314                Reserved128_Handler
+                0x000e3314                TACH3_Handler
+                0x000e3314                LED0_Handler
+                0x000e3314                KBC8042_OBF_Handler
+                0x000e3314                UART1_Handler
+                0x000e3314                INTR_OOB_UP_Handler
+                0x000e3314                TIMER16_1_Handler
+                0x000e3314                Reserved96_Handler
+                0x000e3314                CAPTURE_5_Handler
+                0x000e3314                Reserved144_Handler
+                0x000e3314                CAPTURE_2_Handler
+                0x000e3314                TACH0_Handler
+                0x000e3314                INTR_OOB_DOWN_Handler
+                0x000e3314                INTR_BM2_Handler
+                0x000e3314                PORT_80_DEBUG1_Handler
+                0x000e3314                LED2_Handler
+                0x000e3314                Dummy_Handler
+                0x000e3314                SGPIO0_Handler
+                0x000e3314                Reserved10_Handler
+                0x000e3314                INTR_BM1_Handler
+                0x000e3314                ALARM_Handler
+                0x000e3314                Reserved131_Handler
+                0x000e3314                SGPIO2_Handler
+                0x000e3314                QMSPI_Handler
+                0x000e3314                IN0_Handler
+                0x000e3314                DMA_CHAN05_Handler
+                0x000e3314                Reserved8_Handler
+                0x000e3314                Reserved66_Handler
+                0x000e3314                DMA_CHAN03_Handler
+                0x000e3314                SPI_SLAVE_Handler
+                0x000e3314                ESPI_ERROR_Handler
+                0x000e3314                IN2_Handler
+                0x000e3314                EMI1_Handler
+                0x000e3314                Reserved102_Handler
+                0x000e3314                SGPIO3_Handler
+                0x000e3314                DMA_CHAN07_Handler
+                0x000e3314                SNGL_Handler
+                0x000e3314                Reserved11_Handler
+                0x000e3314                PS2_1B_WK_Handler
+                0x000e3314                IBF1_Handler
+                0x000e3314                Reserved126_Handler
+                0x000e3314                COMPARE_0_Handler
+                0x000e3314                OBF2_Handler
+                0x000e3314                GPIO_240_276_Handler
+                0x000e3314                Reserved142_Handler
+                0x000e3314                Reserved67_Handler
+                0x000e3314                INTR_LTR_Handler
+                0x000e3314                PORT_80_DEBUG0_Handler
+                0x000e3314                Reserved68_Handler
+                0x000e3314                IN3_Handler
+                0x000e3314                SWI_INT_0123_Handler
+                0x000e3314                Reserved81_Handler
+                0x000e3314                PS2_0_ACT_Handler
+                0x000e3314                CAPTURE_0_Handler
+                0x000e3314                I2C2_Handler
+                0x000e3314                DMA_CHAN01_Handler
+                0x000e3314                DMA_CHAN04_Handler
+                0x000e3314                INTR_FLASH_Handler
+                0x000e3314                Reserved127_Handler
+                0x000e3314                Reserved93_Handler
+                0x000e3314                PS2_1_ACT_Handler
+                0x000e3314                CAPTURE_4_Handler
+                0x000e3314                IBF0_Handler
+                0x000e3314                Reserved145_Handler
+                0x000e3314                KBC8042_IBF_Handler
+                0x000e3314                PS2_0A_WK_Handler
+                0x000e3314                INTR_PC_Handler
+                0x000e3314                Reserved98_Handler
+                0x000e3314                Reserved97_Handler
+                0x000e3314                CAPTURE_3_Handler
+                0x000e3314                Reserved13_Handler
+                0x000e3314                SMB0_Handler
+                0x000e3314                DMA_CHAN11_Handler
+                0x000e3314                Reserved39_Handler
+                0x000e3314                IBF2_Handler
+                0x000e3314                Reserved89_Handler
+                0x000e3314                ACPIPM1_STS_Handler
+                0x000e3314                PROCHOT_MON_Handler
+                0x000e3314                GPIO_000_036_Handler
+                0x000e3314                UART0_Handler
+                0x000e3314                Reserved53_Handler
+                0x000e3314                TIMER16_0_Handler
+                0x000e3314                Reserved94_Handler
+                0x000e3314                Reserved139_Handler
+                0x000e3314                ESPI_RESET_Handler
+                0x000e3314                EC_CMPLTN_Handler
+                0x000e3314                TACH2_Handler
+                0x000e3314                Reserved165_Handler
+                0x000e3314                Reserved86_Handler
+                0x000e3314                ONE_SECOND_Handler
+                0x000e3314                Reserved64_Handler
+                0x000e3314                DMA_CHAN10_Handler
+                0x000e3314                OBF1_Handler
+                0x000e3314                SYSPWR_PRES_Handler
+                0x000e3314                IBF3_Handler
+                0x000e3314                ESPI_MSVW07_10_Handler
+                0x000e3314                Reserved6_Handler
+                0x000e3314                Reserved75_Handler
+                0x000e3314                Reserved5_Handler
+                0x000e3314                ACPIPM1_EN_Handler
+                0x000e3314                BusFault_Handler
+                0x000e3314                Reserved76_Handler
+                0x000e3314                Reserved54_Handler
+                0x000e3314                DebugMonitor_Handler
+                0x000e3314                TIMER32_0_Handler
+                0x000e3314                SGPIO1_Handler
+                0x000e3314                Reserved88_Handler
+                0x000e3314                Reserved80_Handler
+                0x000e3314                IN1_Handler
+                0x000e3314                SUB_WEEK_ALARM_Handler
+                0x000e3314                GPIO_200_236_Handler
+                0x000e3314                Reserved77_Handler
+                0x000e3314                KMS_Handler
+ .text.Dummy_Handler
+                0x000e3316        0x2 C:\Users\I20904\AppData\Local\Temp\ccokvwgy.o
+                0x000e3316                WEEK_ALARM_INT_Handler
+                0x000e3316                RPM2PWM_0_STALL_Handler
+                0x000e3316                Reserved100_Handler
+                0x000e3316                RC_ID1_INST_Handler
+                0x000e3316                DMA_CHAN07_INST_Handler
+                0x000e3316                Reserved109_Handler
+                0x000e3316                RC_ID2_INST_Handler
+                0x000e3316                GPIO_040_076_INST_Handler
+                0x000e3316                VCI_IN6_Handler
+                0x000e3316                Reserved60_Handler
+                0x000e3316                Reserved107_Handler
+                0x000e3316                KMS_INST_Handler
+                0x000e3316                SPI1_TX_Handler
+                0x000e3316                DMA_CHAN01_INST_Handler
+                0x000e3316                TIMER4_INST_Handler
+                0x000e3316                Reserved106_Handler
+                0x000e3316                DMA_CHAN11_INST_Handler
+                0x000e3316                VCI_IN4_Handler
+                0x000e3316                ADC_RPT_Handler
+                0x000e3316                Reserved129_Handler
+                0x000e3316                Reserved50_Handler
+                0x000e3316                GPIO_000_036_INST_Handler
+                0x000e3316                SMB1_INST_Handler
+                0x000e3316                RPM2PWM_1_FAIL_Handler
+                0x000e3316                COUNTER_TIMER1_INST_Handler
+                0x000e3316                Reserved130_Handler
+                0x000e3316                DMA_CHAN00_INST_Handler
+                0x000e3316                GPIO_200_236_INST_Handler
+                0x000e3316                COUNTER_TIMER0_INST_Handler
+                0x000e3316                Reserved55_Handler
+                0x000e3316                TIMER3_INST_Handler
+                0x000e3316                VCI_IN1_Handler
+                0x000e3316                Reserved110_Handler
+                0x000e3316                DMA_CHAN12_INST_Handler
+                0x000e3316                Reserved43_Handler
+                0x000e3316                RTOS_INST_Handler
+                0x000e3316                Reserved51_Handler
+                0x000e3316                ADC_SNGL_Handler
+                0x000e3316                COUNTER_TIMER3_INST_Handler
+                0x000e3316                Reserved108_Handler
+                0x000e3316                SMB0_INST_Handler
+                0x000e3316                QMSPI_INST_Handler
+                0x000e3316                Reserved101_Handler
+                0x000e3316                Reserved104_Handler
+                0x000e3316                DMA_CHAN09_INST_Handler
+                0x000e3316                Reserved59_Handler
+                0x000e3316                TACH0_INST_Handler
+                0x000e3316                LED1_INST_Handler
+                0x000e3316                GPIO_240_257_INST_Handler
+                0x000e3316                Reserved105_Handler
+                0x000e3316                VCI_IN2_Handler
+                0x000e3316                HTM1_INST_Handler
+                0x000e3316                TACH1_INST_Handler
+                0x000e3316                DMA_CHAN13_INST_Handler
+                0x000e3316                Reserved103_Handler
+                0x000e3316                RPM2PWM_1_STALL_Handler
+                0x000e3316                Reserved52_Handler
+                0x000e3316                RPM2PWM_0_FAIL_Handler
+                0x000e3316                TIMER2_INST_Handler
+                0x000e3316                Reserved14_Handler
+                0x000e3316                SMB3_INST_Handler
+                0x000e3316                TIMER0_INST_Handler
+                0x000e3316                Reserved56_Handler
+                0x000e3316                Reserved90_Handler
+                0x000e3316                RC_ID0_INST_Handler
+                0x000e3316                VCI_IN5_Handler
+                0x000e3316                UART1_INST_Handler
+                0x000e3316                TIMER1_INST_Handler
+                0x000e3316                Reserved42_Handler
+                0x000e3316                Reserved49_Handler
+                0x000e3316                SPI0_TX_Handler
+                0x000e3316                GPIO_140_176_INST_Handler
+                0x000e3316                Reserved63_Handler
+                0x000e3316                Reserved44_Handler
+                0x000e3316                DMA_CHAN04_INST_Handler
+                0x000e3316                RTC_INT_Handler
+                0x000e3316                GPIO_100_137_INST_Handler
+                0x000e3316                LED3_INST_Handler
+                0x000e3316                Reserved47_Handler
+                0x000e3316                Reserved46_Handler
+                0x000e3316                HTM0_INST_Handler
+                0x000e3316                LED0_INST_Handler
+                0x000e3316                Reserved16_Handler
+                0x000e3316                Reserved87_Handler
+                0x000e3316                DMA_CHAN06_INST_Handler
+                0x000e3316                Reserved70_Handler
+                0x000e3316                VCI_IN3_Handler
+                0x000e3316                Reserved48_Handler
+                0x000e3316                Reserved62_Handler
+                0x000e3316                SMB2_INST_Handler
+                0x000e3316                UART0_INST_Handler
+                0x000e3316                Reserved45_Handler
+                0x000e3316                DMA_CHAN10_INST_Handler
+                0x000e3316                Reserved15_Handler
+                0x000e3316                Reserved58_Handler
+                0x000e3316                DMA_CHAN02_INST_Handler
+                0x000e3316                TACH2_INST_Handler
+                0x000e3316                Reserved57_Handler
+                0x000e3316                VCI_OVRD_IN_Handler
+                0x000e3316                DMA_CHAN03_INST_Handler
+                0x000e3316                SPI0_RX_Handler
+                0x000e3316                DMA_CHAN08_INST_Handler
+                0x000e3316                TIMER5_INST_Handler
+                0x000e3316                MemoryManagement_Handler
+                0x000e3316                DMA_CHAN05_INST_Handler
+                0x000e3316                VCI_IN0_Handler
+                0x000e3316                COUNTER_TIMER2_INST_Handler
+                0x000e3316                Reserved132_Handler
+                0x000e3316                LED2_INST_Handler
+                0x000e3316                RTC_ALARM_Handler
+                0x000e3316                SPI1_RX_Handler
+
+.text%z53       0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtn.o
+
+.text%z54       0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crtend.o
+
+.text%z55       0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(_exit.o)
+
+.text%z56       0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__atexit.o)
+
+.text%z57       0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-fini.o)
+
+.text%z58       0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-atexit.o)
+
+.text%z59       0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-__call_atexit.o)
+
+.text%z60       0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-memset.o)
+
+.text%z61       0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-init.o)
+
+.text%z62       0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-impure.o)
+
+.text%z63       0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libc.a(lib_a-exit.o)
+
+.text%z64       0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/../../../../pic32c/lib/v7e-m/fpv4-sp/hard\libpic32c.a(data_init.o)
+
+.text%z65       0x00000000        0x0
+ .text          0x00000000        0x0 C:\Users\I20904\AppData\Local\Temp\ccokvwgy.o
+
+.text%z66       0x00000000        0x0
+ .text          0x00000000        0x0 build/default/production/_ext/886568118/startup_pic32cx0525sg12144.o
+
+.text%z67       0x00000000        0x0
+ .text          0x00000000        0x0 c:/program files (x86)/microchip/xc32/v2.15-tc4/bin/bin/../../lib/gcc/pic32c/6.2.1/v7e-m/fpv4-sp/hard/crti.o

@@ -1,0 +1,49 @@
+; Everglades SPI Image Generator configuration file FlshmapAddr = 0x11000
+[SPI]
+SPISizeMegabits = 16
+Flashmap = true
+FlshmapAddr = 0x000
+
+[IMAGE "0"]
+ImageLocation = 0x8000
+SpiFreqMHz = 12
+SpiReadCommand = fast
+SpiDriveStrength = 4
+SpiSlewFast = false
+SpiSignalControl = 0x00
+FwBinFile = input.bin
+FwOffset = 0
+FwLoadAddress = 0xE0000
+FwEntryAddress = 0
+UseECDSA = false
+FwAuthtic = false
+ECDSAPrivKeyFile = ecprivkey001.pem 
+ECDSAPrivKeyPassword = ECPRIVKEY001
+FwEncrypt = false
+AesGenECPubKeyFile = ecpubkey002_crt.pem
+VTR1pinSrc18 = false
+VTR2pinSrc18 = false
+VTR3pinSrc18 = false
+
+
+
+[IMAGE "1"]
+ImageLocation = 0xC000
+SpiFreqMHz = 12
+SpiReadCommand = fast
+SpiDriveStrength = 4
+SpiSlewFast = false
+SpiSignalControl = 0x00
+FwBinFile = input.bin
+FwOffset = 0
+FwLoadAddress = 0xE0000
+FwEntryAddress = 0
+UseECDSA = false
+FwAuthtic = false
+ECDSAPrivKeyFile = ecprivkey001.pem 
+ECDSAPrivKeyPassword = ECPRIVKEY001
+FwEncrypt = false
+AesGenECPubKeyFile = ecpubkey002_crt.pem
+VTR1pinSrc18 = false
+VTR2pinSrc18 = false
+VTR3pinSrc18 = false

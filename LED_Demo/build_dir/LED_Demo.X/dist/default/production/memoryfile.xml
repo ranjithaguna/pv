@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production/LED_Demo.X.production.elf">
+    <memory name="program">
+      <units>bytes</units>
+      <length>229375</length>
+      <used>13080</used>
+      <free>216295</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>32767</length>
+      <used>1120</used>
+      <free>31647</free>
+    </memory>
+  </executable>
+</project>

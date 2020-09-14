@@ -1,0 +1,14 @@
+:*******************************
+: Main Check Out File
+: $Revision: #1 $
+:*******************************
+: Trace module
+:*******************************
+
+: Add modules with the proper perforce paths
+
+P4 sync -f ../common/debug/trace.c#head
+P4 sync -f ../common/debug/trace.h#head
+
+:End of Trace module
+
